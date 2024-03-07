@@ -8,9 +8,10 @@
 2. Data from the sensors has been read successfully.
 3. Data has been stored successfully on the cloud server (ThingSpeak).
 4. Live data of BMS can be shared by adding a Gmail ID of any person or company.
+5. Companies can fetch data and they use for further improvement of BMS and their technologies. 
 
-5. A .csv file of data values has been successfully obtained for further processing.
-6. Currently, ML algorithms like Linear Regression Analysis are being worked on.
+6. A .csv file of data values has been successfully obtained for further processing.
+7. Currently, ML algorithms like Linear Regression Analysis are being worked on.
 
 ## Future Work on Algorithms:
 - Polynomial Regression
