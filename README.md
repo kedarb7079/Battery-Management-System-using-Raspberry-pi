@@ -10,7 +10,7 @@ requirements - Adafruit_DHT library must be installed on raspberry pi
 #3 we successfully stored data on the cloud server (ThingSpeak).
 #4 by adding gmail id of any person or company we can share live data of BMS.
 
-#5 we successfully processing got .csv file of data values.
+#5 we successfully got .csv file of data values for further processing.
 #6 currently we are working ml algorithms like linear regression analysis
 
 ** we further work on algorithms like**
