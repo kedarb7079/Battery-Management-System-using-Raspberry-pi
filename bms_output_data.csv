@@ -1,4 +1,4 @@
-created_at,entry_id,field1(battery Temp),field2(relay on/off),field3(bms temp),field4(relay on/off),field5(),field6,field7,field8
+created_at,entry_id,field1(battery Temp),field2(relay on/off),field3(bms temp),field4(relay on/off),field5(ir 1/0),field6(gas 1/0),field7(average humidity),field8(emergency off 1/0)
 2024-03-06T20:01:34+00:00,1,25,0,28,0,0,0,28,0
 2024-03-06T20:02:01+00:00,2,25,0,28,0,0,0,28,0
 2024-03-06T20:02:36+00:00,3,25,0,28,0,0,0,28,0
