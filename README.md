@@ -1,27 +1,23 @@
-# Battery-Management-System-using-Raspberry-pi
-requirements - Adafruit_DHT library must be installed on raspberry pi
-#this is README file 
-**Team The Futurists**
+# README File - Team The Futurists
 
+## Requirements:
+- Adafruit_DHT library must be installed on Raspberry Pi.
 
-** key points **
-#1 as mentioned in flow daigram we have completed the setup.
-#2 we successfully read the data from the sensors.
-#3 we successfully stored data on the cloud server (ThingSpeak).
-#4 by adding gmail id of any person or company we can share live data of BMS.
+## Key Points:
+1. As per the flow diagram, the setup has been completed successfully.
+2. Data from the sensors has been read successfully.
+3. Data has been stored successfully on the cloud server (ThingSpeak).
+4. Live data of BMS can be shared by adding a Gmail ID of any person or company.
 
-#5 we successfully got .csv file of data values for further processing.
-#6 currently we are working ml algorithms like linear regression analysis
+5. A .csv file of data values has been successfully obtained for further processing.
+6. Currently, ML algorithms like Linear Regression Analysis are being worked on.
 
-** we further work on algorithms like**
-      Polynomial Regression
-      Ridge Regression
-      Lasso Regression
-      ElasticNet Regression
-      Support Vector Regression (SVR)
-      Decision Tree Regression
-      Random Forest Regression
-      Gradient Boosting Regression
-
-
-
+## Future Work on Algorithms:
+- Polynomial Regression
+- Ridge Regression
+- Lasso Regression
+- ElasticNet Regression
+- Support Vector Regression (SVR)
+- Decision Tree Regression
+- Random Forest Regression
+- Gradient Boosting Regression
